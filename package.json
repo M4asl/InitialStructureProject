@@ -1,0 +1,9 @@
+{
+  "name": "InitialStructureProject",
+  "version": "1.0.0",
+  "description": "Initial configuration and structure folders for other projects.",
+  "main": "./dist/server.generated.js",
+  "repository": "https://github.com/M4asl/InitialStructureProject",
+  "author": "Mateusz Masłowiec",
+  "license": "MIT"
+}
